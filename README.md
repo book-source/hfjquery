@@ -1,4 +1,4 @@
 # hfjquery
 
-http://thinkjquery.com/
-http://www.headfirstlabs.com/books/hfajax/
+- http://thinkjquery.com/
+- http://www.headfirstlabs.com/books/hfajax/
